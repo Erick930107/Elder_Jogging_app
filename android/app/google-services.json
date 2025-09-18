@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "336856784003",
+    "project_id": "final-e70a1",
+    "storage_bucket": "final-e70a1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:336856784003:android:52e137a395f290c5ff4fb6",
+        "android_client_info": {
+          "package_name": "com.example.jogging"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClJ-jBk-OXaj5d8GfKIAADYlN-p4tZnho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
